@@ -1,2 +1,3 @@
-# SUPT-Sociophysics-Submission
-Submission repository for the Sociophysics Challenge on HeroX, leveraging Sheppard’s Universal Proxy Theory (SUPT) to redefine social systems using blockchain-driven models.
+*"Repository for the HeroX Sociophysics Challenge submission using SUPT and blockchain models."*
+
+
